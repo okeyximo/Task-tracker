@@ -1,6 +1,12 @@
+# Checkout the website on 
+https://condescending-mayer-3c8c2a.netlify.app
+
+This is a task-tracker developed using the React : create-react-app, 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
