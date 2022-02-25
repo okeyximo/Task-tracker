@@ -1,7 +1,8 @@
 # Checkout the website on 
 https://condescending-mayer-3c8c2a.netlify.app
 
-This is a task-tracker developed using the React : create-react-app, 
+This is a task-tracker developed using the React : create-react-app,
+Double click on the task to toggle
 
 # Getting Started with Create React App
 
